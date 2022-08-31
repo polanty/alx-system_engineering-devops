@@ -6,3 +6,4 @@ Display current directory contents
 create a script that creates a directory into another
 cmd mv dir... to move a file to a directory
 rm to delete a file
+rmdir to remove a directory
