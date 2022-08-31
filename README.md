@@ -1,1 +1,1 @@
-This is a discription of commands used in the command line
+This is a description of the commands used in the command line
