@@ -4,3 +4,4 @@ Cmd Cd is used to change to the home directory
 cmd ls -l to write the long details of a file or dir
 Display current directory contents
 create a script that creates a directory into another
+cmd mv dir... to move a file to a directory
