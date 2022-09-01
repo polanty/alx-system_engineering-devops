@@ -9,3 +9,4 @@ rm to delete a file
 rmdir to remove a directory
 cd - to change working directory to the previous one
 Listing all files in d work dir n parent dir nd boot with ls -al. .. /boot
+cmd file for knowing the file type
